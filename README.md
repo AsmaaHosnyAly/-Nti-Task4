@@ -1,4 +1,4 @@
-# Design Responsive Template using HTML5,CSS3,FlexBok and Media Quary 
+# Design Responsive Template using HTML5,CSS3,FlexBox and Media Quary 
 #screen1
 <img src="/images/screen1.png">
 
